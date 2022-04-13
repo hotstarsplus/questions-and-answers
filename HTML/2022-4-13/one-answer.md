@@ -1,4 +1,4 @@
-[html] 页面导入样式时，使用link和@import有什么区别？
+# [html] 页面导入样式时，使用link和@import有什么区别？
 
 区别1：link是XHTML标签，除了加载CSS外，还可以定义RSS等其他事务；@import属于CSS范畴，只能加载CSS。
 区别2：link引用CSS时，在页面载入时同时加载；@import需要页面网页完全载入以后加载。
